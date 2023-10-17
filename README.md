@@ -5,3 +5,4 @@ Andrea Teste B3
 * Modificando **
 * Modificação 3
 * Editando pelo repositorio remoto
+comando git fetch
