@@ -4,3 +4,4 @@ Andrea Teste B3
 * testanto push com vscode
 * Modificando **
 * Modificação 3
+* Editando pelo repositorio remoto
